@@ -2,7 +2,7 @@
 A dynamically-typed vector implementation in C.
 
 ## Usage
-`
+```
 Usage:
 #include "vector.h"
 #define TYPE int
@@ -33,4 +33,4 @@ int main()
 	vec_free_char(&vc);
 	return 0;
 }
-`
+```
